@@ -34,10 +34,6 @@
   "bugs": {
     "url": "https://github.com/cristian-rita/strapi-provider-upload-aws-s3-private/issues"
   },
-  "engines": {
-    "node": ">=10.16.0 <=16.x.x",
-    "npm": ">=6.0.0"
-  },
   "license": "MIT",
   "scripts": {
     "test": "echo \"no tests yet\""
