@@ -1,5 +1,7 @@
 # strapi-provider-upload-aws-s3-private
 
+## BYU Law Note: this is a fork of a public repository and GitHub does not allow us to change the visibility
+
 ## Description
 
 This version of provider is identical with the offical one [here](https://github.com/strapi/strapi/blob/master/packages/strapi-provider-upload-aws-s3/), the only difference being that the ACL: 'public-read' config is removed. 
